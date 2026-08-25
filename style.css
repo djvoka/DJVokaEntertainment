@@ -82,6 +82,12 @@ p {
   margin-top: 0;
 }
 
+h1,
+h2,
+h3 {
+  text-align: left;
+}
+
 h1 {
   margin-bottom: 18px;
   font-size: clamp(2.8rem, 7vw, 6rem);

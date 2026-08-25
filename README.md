@@ -15,4 +15,4 @@ Official website for DJ VOKA, also known as DJ Real Voka, based in Benin City, E
 
 This is a static website and can be deployed directly from the repository with GitHub Pages or Vercel.
 
-Canonical website: https://djvoka.name.ng/
+Canonical website: https://www.djvoka.name.ng/

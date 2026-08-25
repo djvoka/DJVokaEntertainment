@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://djvoka.name.ng/sitemap.xml
+Sitemap: https://www.djvoka.name.ng/sitemap.xml
