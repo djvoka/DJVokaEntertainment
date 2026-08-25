@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djvoka.name.ng/sitemap.xml
